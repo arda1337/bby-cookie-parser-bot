@@ -17,7 +17,7 @@
 
 Only1Server is not ready, so set as false. 
 
-1) You need download (Nodejs)[https://nodejs.org/en]
+1) You need download [Download](https://nodejs.org/en)
 2) npm i discord.js axios fs randomstring
 3) npm i -g nodemon
 4) nodemon index.js
