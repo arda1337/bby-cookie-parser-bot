@@ -3,9 +3,9 @@
         "Only1Server" : true
     },
     "Bot": {
-        "Token": "MTA4NjY0NDQxNDk5NjI5NTc3Mg.G8i9Wg.VMOCAklC9N1a__28eXAVRkZSc2wIwLJ5EAa-jw"
+        "Token": "Your Bot Token"
     },
     "Guild": {
-        "ID":"1082689680925020180"
+        "ID":"Your Log ID"
     }
 }
